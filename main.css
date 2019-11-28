@@ -38,6 +38,12 @@ main{
                 color: grey;
                 margin-left: 20px;
             }
+            .sing{
+                padding: 0px 10px;
+                border: solid 2px grey;
+                border-radius: 30px;
+                margin-top: -2px;
+            }
     section{
         display: inline-block;
         width: 100%;
@@ -46,14 +52,22 @@ main{
         div{
             display: inline-block;
             width: 45%;
+            margin-top: 40px;
         }
             h1{
                 display: inline-block;
+                width: 100%;
+                font-size: 100px;
+                color: grey;
             }
             p{
                 display: inline-block;
+                width: 100%;
+                font-size: 40px;
+                color: grey;
             }
         section img{
             display: inline-block;
             width: 45%;
+            float: right;
         }
